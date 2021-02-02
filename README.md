@@ -1,2 +1,4 @@
 # ShopifyPriceTracker
-Scrape and track Shopify websites price
+Scrape and track the price of Shopify Websites
+
+Currently works for www.havenshop.com
