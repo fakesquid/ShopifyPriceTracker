@@ -1,2 +1,2 @@
 # ShopifyPriceTracker
-Track Shopify websites price
+Scrape and track Shopify websites price
